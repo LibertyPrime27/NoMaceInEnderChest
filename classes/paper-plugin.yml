@@ -1,0 +1,5 @@
+name: NoMaceEnderChest
+version: 1.0
+main: com.example.nomaceenderchest.NoMaceEnderChest
+api-version: '1.21'
+description: Prevents players from storing maces in ender chests
